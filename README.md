@@ -1,7 +1,7 @@
 # Simulating Trust
 
 This project is a blind implementation of Nicky Case's [explorable explanation](https://ncase.me/trust/) on game theory.
-For the code, check out [gitlab](https://gitlab.com/Vanguard-/simulating-trust).
+**For the code, check out [gitlab](https://gitlab.com/Vanguard-/simulating-trust)**.
   
 
 ## What It Does
