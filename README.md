@@ -18,7 +18,7 @@ Plotly, pandas, and numpy are required to run the code.
   
 The `__call__` method for `Sandbox.plot` only works inside of a Jupyter environment since it is designed to be a convenience method.
 
-![Screenshot](assets/call_method_v1.png)
+![Screenshot](call_method_v1.png)
 
 
 
